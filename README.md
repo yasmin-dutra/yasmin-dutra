@@ -10,7 +10,7 @@ Linguagens que estou explorando:
 📊 SQL
 🖥️ HTML/CSS
 🐙 Git/GitHub
-🚀 Sempre em busca de crescimento profissional e pessoal, estou focado em soluções tecnológicas que tragam impacto positivo na sociedade, especialmente no campo da educação e sustentabilidade.
+🚀 Sempre em busca de crescimento profissional e pessoal, estou focado em soluções tecnológicas que tragam impacto positivo na sociedade.
 
 Até breve,
 
