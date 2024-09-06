@@ -15,10 +15,9 @@ Linguagens que estou explorando:
 Até breve,
 
 <div>
-  <img height="180cm" scr="https://github-readme-starts.vencel.app/api?username=yasmin-dutra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true";_>
-  <img height="180cm" scr="https://github-readme-starts.vencel.app/api/top-langs/?username=yasmin-dutra&layout=compact&langs_count=16&theme=dracula"/_>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=yasmin-dutra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin-dutra&layout=compact&langs_count=16&theme=dracula">
 </div>
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Yas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,3 +27,6 @@ Até breve,
   <img align="center" alt="Yas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Yas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
+
+
