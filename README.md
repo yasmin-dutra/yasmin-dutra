@@ -28,5 +28,14 @@ Até breve,
   <img align="center" alt="Yas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+<div> 
+  Entre em contato comigo. 😊
+  <!-- YouTube, Instagram, Twitch, Discord, etc. já presentes -->
 
+  <!-- Link para o Gmail -->
+  <a href="mailto:yasmindutra9898@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  <!-- Link para o LinkedIn -->
+  <a href="https://www.linkedin.com/in/yasmindtrs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
