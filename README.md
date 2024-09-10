@@ -1,8 +1,8 @@
 ## Hi world, sou Yasmin 👋
 
-🎓 Graduanda em Engenharia da Computação, minha trajetória na programação iniciou em meados de 2020.
+🎓 Graduanda em Engenharia da Computação, minha trajetória na programação começou em meados de 2020.
 
-💻 Apaixonada por tecnologia e programação, estou constantemente aprendendo e buscando desafios para aplicar e expandir meus conhecimentos. Abaixo estão algumas linguagens e ferramentas que utilizo:
+💻 Apaixonada por tecnologia e programação, estou constantemente aprendendo e buscando desafios para aplicar e expandir meus conhecimentos. 
 
 Linguagens que estou explorando:
 🐍 Python
@@ -10,6 +10,8 @@ Linguagens que estou explorando:
 📊 SQL
 🖥️ HTML/CSS
 🐙 Git/GitHub
+
+##
 🚀 Sempre em busca de crescimento profissional e pessoal, estou focado em soluções tecnológicas que tragam impacto positivo na sociedade.
 
 Até breve,
