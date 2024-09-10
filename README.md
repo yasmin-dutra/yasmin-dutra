@@ -1,20 +1,21 @@
-## Hi world, sou Yasmin 👋
+## Hello world, I'm Yasmin 👋
 
-🎓 Graduanda em Engenharia da Computação, minha trajetória na programação começou em meados de 2020.
+🎓 Undergraduate in Computer Engineering, my programming journey began in mid-2020.
 
-💻 Apaixonada por tecnologia e programação, estou constantemente aprendendo e buscando desafios para aplicar e expandir meus conhecimentos. 
+💻 Passionate about technology and programming, I am constantly learning and looking for challenges to apply and expand my knowledge. 
 
-Linguagens que estou explorando:
-🐍 Python
-⚙️ C++
-📊 SQL
-🖥️ HTML/CSS
-🐙 Git/GitHub
+Languages ​​I'm exploring:
+🐍Python
+⚙️C++
+📊SQL
+🖥️HTML/CSS
+🐙Git/GitHub
 
 ##
-🚀 Sempre em busca de crescimento profissional e pessoal, estou focado em soluções tecnológicas que tragam impacto positivo na sociedade.
 
-Até breve,
+🚀 Always looking for professional and personal growth, I am focused on technological solutions that bring a positive impact on society.
+
+See you soon,
 
 <div>
 
